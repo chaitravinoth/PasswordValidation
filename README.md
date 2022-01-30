@@ -1,11 +1,5 @@
 # PasswordValidation
 
-As per the questions notes:
-**Notes**
-- `op`, `np`, and `bw` consist of English letters (i.e. [a−zA-z])
-- `op` and `np` may also contain numbers (i.e. [0-9])
-- Please don't worry about the input/output format. You can hard-code values, pass them as arguments, etc.
-- Also make sure to verify the correctness of your implementation.
 
 Assumptions:
 
